@@ -1,8 +1,8 @@
 ## 2026/10/4 学習ログ
 
 ### VirtualBox（AlmaLinux）【40分】
--SSH
--基本的なコマンド（ls、systemctlなど）
+- SSH
+- 基本的なコマンド（ls、systemctlなど）
 
 ### LPIC101【1時間47分】
 - 小豆本を確認・スピマス（白本）・ping-tで問題演習(解いた問題数：83問)
